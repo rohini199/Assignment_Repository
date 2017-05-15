@@ -6,6 +6,7 @@ public class MakePayment {
 		// TODO Auto-generated method stub
 System.out.println("Please enter the card details");
 System.out.println("Entering invalid card details");
+System.out.println("Entered a valid card details");
 	}
 
 }
